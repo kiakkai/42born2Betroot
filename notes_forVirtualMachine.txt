@@ -1,0 +1,11 @@
+	▪	LVM:	Logical Value Management
+	▪	Aptitude: High-level package. #user interface #interactive UI	#more powerful and advanced
+	▪	apt: lower-level package #can be used in high-level, It is designed to handle software and removal. (Package manager)
+	▪	SELinux: Security Enhanced Linux system
+	▪	Apparmor: AppArmor is a Linux kernel security module that allows the system administrator to restrict programs' capabilities with per-program profiles.
+	▪	GUI: Graphical User Interface
+	▪	CentOS: The CentOS Project is a community-driven free software effort focused around the goal of providing a rich base platform for open source communities to build upon.
+	▪	Debian:Debian is a popular and freely available computer operating system (OS) that uses a Unix-like kernel-- typically Linux -- alongside other program components, many of which come from GNU Project.
+	▪	unix: Linux is not Unix, but it is a Unix-like operating system. Linux system is derived from Unix and it is a continuation of the basis of Unix design. 
+	▪	shell: zsh/bash/fish
+
